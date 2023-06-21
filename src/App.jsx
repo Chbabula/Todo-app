@@ -1,6 +1,6 @@
 import React from 'react';
-import CreateTodo from './componets/Create-Todo';
-import TodoList from './componets/todo-list';
+import CreateTodo from './componets/CreateTodo';
+import TodoList from './componets/TodoList';
 import { Container } from '@mui/material';
 import './App.css';
 

@@ -9,7 +9,7 @@ import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import Box from "@mui/material/Box";
-import alert from "./alert";
+import alert from "./Alert";
 const style = {
   position: "absolute",
   top: "50%",

@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import alert from "./alert";
+import alert from "./Alert";
 import { Checkbox, Typography, Button, IconButton } from "@mui/material";
 import DeleteForeverIcon from "@mui/icons-material/DeleteForever";
 
